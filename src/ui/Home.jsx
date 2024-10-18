@@ -16,7 +16,7 @@ function Home() {
           </p>
         </h1>
         <img
-          src="src/ui/10219.jpg"
+          src="public/10219.jpg"
           className=" max-h-80md:min-h-96 md:min-w-96 max-w-80 mx-auto md:mx-0 xl:min-w-[600px] "
         />
       </div>

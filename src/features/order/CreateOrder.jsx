@@ -142,8 +142,8 @@ function CreateOrder() {
         </Form>
         </div>
       <img
-        src="/src/ui/delivery-guy-1424808_1280.png"
-        alt="safqwf"
+        src="/delivery-guy-1424808_1280.png"
+        alt="delivery guy image"
         className="cart-movement  overflow-hidden  max-h-96 absolute -z-50 bottom-5 right-0"
       />
     </div>
